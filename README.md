@@ -1,4 +1,4 @@
-# 🎮 TES Modding Guide: Your Journey to Transformed Games
+# 🎮 TES Modding Guide
 
 Welcome to the **TES Modding Guide** project, a series of guides designed to help players and modders customize their experience in The Elder Scrolls (TES) games. Whether you’re a beginner or a seasoned modder, these guides will take you step-by-step toward creating stable and immersive gaming sessions.
 
