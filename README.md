@@ -1,6 +1,6 @@
-# 🎮 TES Modding Guide
+# 🎮 TES V: Skyrim Modding Guide
 
-Welcome to the **TES Modding Guide** project, a series of guides designed to help players and modders customize their experience in The Elder Scrolls (TES) games. Whether you’re a beginner or a seasoned modder, these guides will take you step-by-step toward creating stable and immersive gaming sessions.
+Welcome to the **TES V: Skyrim Modding Guide** project, a series of guides designed to help players and modders customize their experience in *The Elder Scrolls V: Skyrim*. Whether you’re a beginner or a seasoned modder, these guides will take you step-by-step toward creating stable and immersive gaming sessions.
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to the **TES Modding Guide** project, a series of guides designed to hel
 
 The guides are organized into a series of short, chronological episodes for smooth progression:
 
-1. **Introduction to TES Modding**: Basics and setup of essential tools.
+1. **Introduction to Skyrim Modding**: Basics and setup of essential tools.
 2. **Tool Configuration**: Setting up Mod Organizer 2, LOOT, and other key utilities.
 3. **Mod Management**: Installing, sorting, and testing mods to avoid conflicts.
 4. **Game Optimization**: Techniques to improve performance and stability.
@@ -30,7 +30,7 @@ Each guide will be available in **PDF format** and later organized on a dedicate
 
 ## 🌟 **Why This Project?**
 
-With over **500 hours of experience** in creating modlists and involvement in open-source projects, this initiative aims to share knowledge and help others avoid common pitfalls. Modding may seem complex, but with the right tools and methods, it becomes an incredibly rewarding way to rediscover your favorite games.
+With over **500 hours of experience** in creating modlists and involvement in open-source projects, this initiative aims to share knowledge and help others avoid common pitfalls. Modding may seem complex, but with the right tools and methods, it becomes an incredibly rewarding way to rediscover *Skyrim*.
 
 ---
 
@@ -60,7 +60,7 @@ With over **500 hours of experience** in creating modlists and involvement in op
 
 - **Suggestions & Feedback**: Open an issue on GitHub or leave a comment.
 - **Corrections**: Propose edits or corrections by submitting a pull request.
-- **Sharing**: Spread the word about the project to other TES and modding enthusiasts!
+- **Sharing**: Spread the word about the project to other *Skyrim* and modding enthusiasts!
 
 ---
 
