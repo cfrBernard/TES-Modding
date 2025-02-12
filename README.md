@@ -1,4 +1,7 @@
-# 🎮 TES V: Skyrim Modding Guide
+<p align="center">
+  <img src="TES5.png" alt="tes5 .png" />
+</p>
+<br>
 
 Welcome to the **TES V: Skyrim Modding Guide** project, a series of guides designed to help players and modders customize their experience in *The Elder Scrolls V: Skyrim*. Whether you’re a beginner or a seasoned modder, these guides will take you step-by-step toward creating stable and immersive gaming sessions.
 
