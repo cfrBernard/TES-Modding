@@ -20,12 +20,12 @@ Welcome to the **TES V: Skyrim Modding Guide** project, a series of guides desig
 
 The guides are organized into a series of short, chronological episodes for smooth progression:
 
-1. **Introduction to Skyrim Modding**: Basics and setup of essential tools.
-2. **Tool Configuration**: Setting up Mod Organizer 2, LOOT, and other key utilities.
-3. **Mod Management**: Installing, sorting, and testing mods to avoid conflicts.
-4. **Game Optimization**: Techniques to improve performance and stability.
-5. **Modlist Creation**: How to organize and document your own modlists.
-6. **Advanced Steps**: Exploring mod creation and custom scripting.
+1. [**Introduction to Skyrim Modding**](Guides/1_IntroductionToSkyrimModding.md): Basics and setup of essential tools.
+2. [**Tool Configuration**](Guides/2_ToolConfiguration.md): Setting up Mod Organizer 2, LOOT, and other key utilities.
+3. [**Mod Management**](Guides/3_ModManagement.md): Installing, sorting, and testing mods to avoid conflicts.
+4. [**Game Optimization**](Guides/4_GameOptimization.md): Techniques to improve performance and stability.
+5. [**Modlist Creation**](Guides/5_ModlistCreation.md): How to organize and document your own modlists.
+6. [**Advanced Steps**](Guides/6_AdvancedSteps.md): Exploring mod creation and custom scripting.
 
 > Each guide will be available in **Markdown format** and later organized on a dedicated website.
 
