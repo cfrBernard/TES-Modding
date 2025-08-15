@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TES5.png" alt="tes5 .png" />
+  <img src="Assets/Img/TES5.png" alt="tes5 .png" />
 </p>
 <br>
 
