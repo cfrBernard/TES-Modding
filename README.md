@@ -27,13 +27,13 @@ The guides are organized into a series of short, chronological episodes for smoo
 5. **Modlist Creation**: How to organize and document your own modlists.
 6. **Advanced Steps**: Exploring mod creation and custom scripting.
 
-Each guide will be available in **PDF format** and later organized on a dedicated website.
+> Each guide will be available in **Markdown format** and later organized on a dedicated website.
 
 ---
 
 ## 🌟 **Why This Project?**
 
-With over **500 hours of experience** in creating modlists and involvement in open-source projects, this initiative aims to share knowledge and help others avoid common pitfalls. Modding may seem complex, but with the right tools and methods, it becomes an incredibly rewarding way to rediscover *Skyrim*.
+With over **1000 hours of experience** in creating modlists and involvement in open-source projects, this initiative aims to share knowledge and help others avoid common pitfalls. Modding may seem complex, but with the right tools and methods, it becomes an incredibly rewarding way to rediscover *Skyrim*.
 
 ---
 
@@ -67,4 +67,4 @@ With over **500 hours of experience** in creating modlists and involvement in op
 
 ---
 
-### 🎉 May your modding sessions be stable and epic!
+### May your modding sessions be stable and epic!
