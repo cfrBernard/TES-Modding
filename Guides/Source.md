@@ -11,5 +11,7 @@
 
 ---
 
-- **Mod Showcases** : [Bards College Graduate](https://www.youtube.com/@BardsCollegeGraduate)
 - **BodySlide Tutorial** : [Mom's Gaming Channel (Ciraeyna)](https://www.youtube.com/watch?v=FQJEPLnA9D8&list=PLrGqMZcWJgEklIespJy8XhwFIXKsxv7VJ)
+- **Mod Showcases** : [Bards College Graduate](https://www.youtube.com/@BardsCollegeGraduate)
+- **Mod Showcases** : [Nariva TV](https://www.youtube.com/@NarivaTV)
+
